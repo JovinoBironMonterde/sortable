@@ -1,0 +1,28 @@
+  .ghost {
+        opacity: 0.4;
+    }
+    .list-group {
+        margin: 20px;
+    }
+   
+    .divbg{
+        background-color: skyblue;
+        width: 100%;
+        padding: 10px;
+        text-align: center;
+        border: 1px solid gray;
+        cursor: grabbing;
+   
+    }
+    #demo{
+        display: flex;
+        width: 80%;
+        margin: 20px auto;
+    
+ justify-content: space-between;
+    }
+    #items-1 , #items-2{
+        
+        width: 40%;
+        margin: 10px !important;
+    }
